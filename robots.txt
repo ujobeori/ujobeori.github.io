@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujobeori.github.io/CSG/sitemap_index.txt
+Sitemap: https://ujobeori.github.io/Wqv/sitemap_index.txt
+Sitemap: https://ujobeori.github.io/irm/sitemap_index.txt
+Sitemap: https://ujobeori.github.io/qJs/sitemap_index.txt
